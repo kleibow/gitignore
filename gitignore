@@ -1,0 +1,5 @@
+gitignore
+.RData
+.Rhistory
+*.results
+.DS_Store
